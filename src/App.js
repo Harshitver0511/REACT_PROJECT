@@ -1,20 +1,19 @@
-
-import Navbar from './Component/Navbar';
+import React from 'react';
 import './App.css';
-import './App1.css';
-// /import Count from './Component/Count';
+// import Form from './Component/Form';
+import Signup from './Component/Signup';
 
 
-function App() {
+
+ function App() {
+ 
+  
  
   return (
-   <>
-   <Navbar title="Harshit" />
-  
-  
+    <>
+   {/* <Form/> */}
+   <Signup/>
 
-   
- 
    </>
   );
 }
