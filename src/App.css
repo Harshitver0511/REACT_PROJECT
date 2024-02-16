@@ -36,3 +36,74 @@
     transform: rotate(360deg);
   }
 }
+.main{
+  height:85vh;
+  width: 30%;
+  background-color: #d7ddea;
+  margin-left:27rem;
+  border-radius: 1rem;
+
+}
+.imm{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+.imm img{
+  height: 30vh;
+  width: 100%;
+  background-color: #61dafb;
+  border-radius: 1rem;
+}
+.imm div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.imm div button{
+  padding: 1rem;
+  font-size: large;
+}
+
+.hs{
+  align-self: center;
+  height:100%;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  background-color:bisque;
+  flex-direction: column;
+
+
+}
+
+.harshit{
+
+  height: 40vh;
+  width:70%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1rem;
+  border: 1px solid black;
+  padding: .5rem;
+  gap: .5rem;
+
+}
+.verma{
+  height:100%;
+  width: 40%;
+  border: 1px solid black;
+  border-radius: 1rem;
+}
+.verma img{
+  width: 100%;
+  height: 100%;
+}
+

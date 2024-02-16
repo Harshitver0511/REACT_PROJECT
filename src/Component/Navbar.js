@@ -7,7 +7,7 @@ export default function Navbar (props) {
     <a className="navbar-brand" href="/">
       {props.title}
     </a>
-    <button
+    <button 
       className="navbar-toggler"
       type="button"
       data-bs-toggle="collapse"
@@ -46,6 +46,12 @@ export default function Navbar (props) {
     </div>
   </div>
 </nav>
+
+
+
+
+
+
     </>
     
   )

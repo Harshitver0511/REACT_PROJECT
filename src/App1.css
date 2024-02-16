@@ -1,0 +1,15 @@
+.but1{
+    height:100px;
+    width: 100px;
+    color: white;
+    display:inline;
+    margin: 1rem;
+    
+}
+.but1 button{
+    font-size: larger;
+    padding: 1rem;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 1rem;
+}
